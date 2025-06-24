@@ -32,3 +32,26 @@ O carrinho esta sendo representado em um array de items
     </tr>
 </table>
 
+## Tecnologias Utilizadas
+
+- JavaScript.
+- NodeJs.
+
+## Como Executar o Projeto
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/Davi-Andrade/shopee-cart
+   ```
+
+2. Navegue até o diretório do projeto:
+
+   ```bash
+   cd shopee-cart
+   ```
+
+3. Em seu terminal e na pasta do projeto
+
+   ```bash
+   node src/index.js

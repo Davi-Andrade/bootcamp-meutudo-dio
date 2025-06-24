@@ -42,7 +42,7 @@ O carrinho esta sendo representado em um array de items
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Davi-Andrade/shopee-cart
+   git clone https://github.com/Davi-Andrade/bootcamp-meutudo-dio
    ```
 
 2. Navegue até o diretório do projeto:

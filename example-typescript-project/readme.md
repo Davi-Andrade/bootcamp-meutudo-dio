@@ -4,7 +4,11 @@ npm init -y
 npm i typescript tsc tsup -D
 npx tsc --init
 ```
+ou
 
+```
+npm init -y typescript - D
+```
 ## tsconfig.json
 ```
 {

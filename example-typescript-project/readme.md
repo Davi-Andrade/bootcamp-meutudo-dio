@@ -1,8 +1,12 @@
-
+## comandos terminal
+```
 npm init -y
 npm i typescript tsc tsup -D
 npx tsc --init
+```
 
+## tsconfig.json
+```
 {
   "compilerOptions": {
     "target": "ES6",
@@ -12,10 +16,14 @@ npx tsc --init
     "esModuleInterop": true    
   }
 }
+```
 
+## scripts package.json
+```
 "scripts": {
     "dist": "tsup src",
     "start:dev": "tsx src/index.ts",
     "start:watch": "tsx watch src/index.ts",
     "start:dist": "npm run dist && node dist/index.js"
 }
+```

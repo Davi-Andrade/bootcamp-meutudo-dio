@@ -19,3 +19,5 @@ await cartService.orderByName(car)
 await cartService.displayCart(car)
 
 await cartService.calculateTotal(car)
+
+console.log(process.env.DATABASE)
